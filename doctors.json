@@ -1,0 +1,26 @@
+[
+  {
+    "doctor_id": "D001",
+    "name": "Dr. Fatima Al Khalifa",
+    "specialty": "General Medicine",
+    "working_days": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday"],
+    "working_hours": {"start": "09:00", "end": "17:00"},
+    "slot_minutes": 30
+  },
+  {
+    "doctor_id": "D002",
+    "name": "Dr. Ahmed Mansoor",
+    "specialty": "Cardiology",
+    "working_days": ["Sunday", "Tuesday", "Thursday"],
+    "working_hours": {"start": "10:00", "end": "16:00"},
+    "slot_minutes": 30
+  },
+  {
+    "doctor_id": "D003",
+    "name": "Dr. Layla Hassan",
+    "specialty": "Pediatrics",
+    "working_days": ["Monday", "Wednesday", "Thursday"],
+    "working_hours": {"start": "08:00", "end": "14:00"},
+    "slot_minutes": 20
+  }
+]
